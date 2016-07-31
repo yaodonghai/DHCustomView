@@ -52,7 +52,6 @@
 		22AC52011D4E3AFC00536E4E /* DHCustomViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DHCustomViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22AC52051D4E3AFC00536E4E /* DHCustomViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DHCustomViewUITests.m; sourceTree = "<group>"; };
 		22AC52071D4E3AFC00536E4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		22AC52181D4E3CBA00536E4E /* DHCustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHCustomView.h; sourceTree = "<group>"; };
 		22AC521E1D4E558200536E4E /* DHLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHLabel.h; sourceTree = "<group>"; };
 		22AC521F1D4E558200536E4E /* DHLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHLabel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -149,7 +148,6 @@
 			isa = PBXGroup;
 			children = (
 				22AC521D1D4E558200536E4E /* DHLabel */,
-				22AC52181D4E3CBA00536E4E /* DHCustomView.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
