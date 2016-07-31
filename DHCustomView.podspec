@@ -28,11 +28,11 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/yaodonghai/DHCustomView.git", :tag => "0.0.1" }
 
-
+ 
   s.source_files  = "Classes", "DHCustomView/Classes/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
-  s.public_header_files = "DHCustomView/Classes/DHKit/DHCustomView.h","DHCustomView/Classes/**/*.h"
+
   s.requires_arc = true
 
 end
