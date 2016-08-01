@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/yaodonghai/DHCustomView.git", :tag => "0.0.1" }
 
-  s.source_files = 'DHCustomViewDemo/DHCustomViewDemo/DHCustomView/DHLabel/**’
   s.requires_arc = true
+  s.source_files = 'DHCustomViewDemo/DHCustomViewDemo/DHCustomView/DHLabel/**’
 
 end
